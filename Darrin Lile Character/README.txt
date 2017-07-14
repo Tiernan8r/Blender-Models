@@ -1,0 +1,1 @@
+These blender model and textures were created from following Darrin Lile's Character creation tutorials on Youtube.
